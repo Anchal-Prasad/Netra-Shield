@@ -4,14 +4,23 @@
 
 ## 📌 Overview
 
-**NetraShield** is an end-to-end IoT network intrusion detection system developed during my **Machine Learning Internship at the Office of Advisor (Cyber), DRDO**.
-
+**NetraShield** is an end-to-end IoT network intrusion detection system .
 The system uses a **two-stage hierarchical machine learning pipeline**:
 
 1. **Stage 1 — Binary Detection:** Determines whether network traffic is **benign or an attack**.
 2. **Stage 2 — Attack Classification:** Classifies detected attacks into known attack categories or labels low-confidence predictions as **Unknown Attack**.
 
 The complete system supports **manual feature input, CSV files, and raw PCAP files**, and combines a machine learning prediction engine with a **FastAPI backend, Supabase database, React dashboard, and cloud deployment**.
+ -Dashboard
+<img width="1838" height="959" alt="3" src="https://github.com/user-attachments/assets/4d21125e-9aee-44de-ab02-70f0e9e4e62c" />
+<img width="1842" height="761" alt="4" src="https://github.com/user-attachments/assets/1b140977-01c2-4b21-b2db-f2b8a0989c0c" />
+-Database Supabase
+<img width="1577" height="913" alt="2" src="https://github.com/user-attachments/assets/9ac02bfd-0237-4603-92c9-8c36c1cc2c81" />
+-->Matrix
+<img width="372" height="287" alt="1" src="https://github.com/user-attachments/assets/341aafd5-4d62-4a32-8ac5-c7a4a94138ac" />
+
+
+
 
 ---
 
